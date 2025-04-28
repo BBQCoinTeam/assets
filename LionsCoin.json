@@ -1,0 +1,9 @@
+{
+    "name": "LionsCoin",
+    "symbol": "LionsCoin",
+    "address": "0:fcf14f2bb96710d93486a478c467b0d410ea1e908e418e0801ceab428a9b3345",
+    "description": "Minting coin in t.me/Lionsapp_bot/LIONS",
+    "decimals": 0,
+    "image": "https://webapp.lionsapps.xyz/imgs/stake/stake_lions.png",
+    "telegram": "https://t.me/Lionsapp_bot"
+}
